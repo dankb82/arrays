@@ -16,4 +16,4 @@ array.each do |name|
   puts "#{name} is in this class."
 end
 
-puts "The first name you gave me was #{array[0]}."
+puts "The first name you gave me was #{array[0]}. The second was #{array [1]}."
